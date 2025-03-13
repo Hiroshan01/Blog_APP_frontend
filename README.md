@@ -29,7 +29,8 @@ To run this application locally, follow these steps:
    ```bash
    git clone <repository-url>
    npm install
-   npm install
+2. **Installtion And Run**:
+   axio libray, tailwind react router dom libray
    npm run dev
 
 
